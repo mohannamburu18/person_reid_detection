@@ -1,0 +1,18 @@
+# Core dependencies
+opencv-python==4.8.1.78
+numpy==1.24.3
+scipy==1.11.4
+
+# Deep Learning
+torch==2.1.0
+torchvision==0.16.0
+
+# YOLO for person detection
+ultralytics==8.0.221
+
+# Optional: Advanced ReID (uncomment if needed)
+# torchreid==1.4.0
+
+# Utilities
+Pillow==10.1.0
+matplotlib==3.8.2
